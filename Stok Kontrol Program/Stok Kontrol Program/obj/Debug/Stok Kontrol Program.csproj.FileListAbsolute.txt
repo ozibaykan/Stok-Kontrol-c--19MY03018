@@ -1,0 +1,23 @@
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Stok Kontrol Program.exe.config
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Stok Kontrol Program.exe
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Stok Kontrol Program.pdb
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\obj\Debug\Stok Kontrol Program.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\obj\Debug\Stok_Kontrol_Program.Form1.resources
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\obj\Debug\Stok_Kontrol_Program.Properties.Resources.resources
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\obj\Debug\Stok Kontrol Program.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\obj\Debug\Stok Kontrol Program.exe
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\obj\Debug\Stok Kontrol Program.pdb
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\obj\Debug\Stok_Kontrol_Program.Form3.resources
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Ext.Net.dll
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Transformer.NET.dll
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\WebActivatorEx.dll
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Ext.Net.xml
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Ext.Net.Utilities.xml
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\bin\Debug\Transformer.NET.xml
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\obj\Debug\Stok Kontrol Program.csproj.CopyComplete
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\obj\Debug\Stok_Kontrol_Program.Form5.resources
+C:\Users\Asus\source\repos\Stok Kontrol Program\Stok Kontrol Program\obj\Debug\Stok_Kontrol_Program.Form4.resources

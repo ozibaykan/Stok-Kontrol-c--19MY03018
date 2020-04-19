@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0001: Adları Basitleştir
+dotnet_diagnostic.IDE0001.severity = error
